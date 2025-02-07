@@ -38,39 +38,26 @@ Below are some example visualizations from our analysis:
 ### 🚦 Collision Frequency by Weather Category
 This bar chart shows the top weather conditions contributing to the highest number of collisions.
 
-![Collision Frequency](results/collision_frequency.png)
+![image](https://github.com/user-attachments/assets/eff4d230-578b-4c78-a6c0-aae56a03923c)
 
-### ⚠️ Severity of Accidents in Different Weather Conditions
-A comparative view of the average injuries and fatalities per collision under different weather conditions.
 
-![Collision Severity](results/collision_severity.png)
+### ⚠️ Peak collision time for different weather conditions
+A comparative view of peak collision under different weather conditions.
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Weather-vs-Wheels.git
-   cd Weather-vs-Wheels
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Explore the analysis and results.
+![image](https://github.com/user-attachments/assets/b8807a5a-183c-441f-9167-489a78bf7fb8)
 
-## 📌 Authors
-This project was developed by:
-- **Sukhad**
-- **Biswadip**
-- **Mihir**
-- **Vaibhav**
+### 🚦 Top Vehicle Types Contributing to Fatal Crashes
+This bar chart illustrates the most common vehicle types involved in fatal accidents.
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+![image](https://github.com/user-attachments/assets/06ebc0df-2d8b-482c-bd15-6e06567f8b1a)
 
----
 
-Let me know if you’d like any refinements or additional details! 🚀
+### ⚠️ Contributing Factors in Sedan Collisions
+This chart highlights the primary causes of sedan collisions.
+
+![image](https://github.com/user-attachments/assets/c15a0860-614a-4dc6-8fd3-34d52daa366f)
+
+### 🌍 Borough-wise Sedan Collisions
+This visualization shows the distribution of sedan collisions across NYC boroughs.
+![image](https://github.com/user-attachments/assets/149718d4-a847-4e81-bf4e-eed32639457d)
+
